@@ -1,6 +1,6 @@
 # Projeto Sistema de gerenciamento de pessoas em API REST com Spring Boot
 
-## API feita na plataforma Digital Innovayion One para o Bootcamp NTT DATA New Talents #3 Java
+## API feita na plataforma Digital Innovation One para o Bootcamp NTT DATA New Talents #3 Java
 
 🛠 Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:
